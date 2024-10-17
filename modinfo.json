@@ -1,1 +1,11 @@
-
+{
+	"id": "rwgizzard",
+	"name": "Polypop's Lizards",
+	"version": "0.1",
+	"authors": "Polynobel, Tofipop",
+	"description": "DevUI extender for placed objects and effects.<LINE>Source code and instructions can be found here: https://github.com/Rain-World-Modding/Pom",
+	"requirements": ["lizardcustomiser"],
+	"requirements_names": ["Lizard Customiser"],
+	"checksum_override_version": false,
+	"tags": ["Lizards"]
+}
