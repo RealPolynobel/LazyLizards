@@ -1,8 +1,8 @@
 {
 	"id": "rwgizzard",
-	"name": "Polypop's Lizards",
-	"version": "0.1",
-	"authors": "Polynobel, Tofipop",
+	"name": "Lazy Lizards",
+	"version": "0.3.1",
+	"authors": "Polynobel, Tofipop, Sleepy Pancake",
 	"description": "Some funny (and slightly broken) lizards.<LINE> <LINE>Lizard List:<LINE> <LINE>- Tram Lizard (id: TramLizard)<LINE>- Tofi Lizard (id: bouncyfliz)<LINE>- Sleepy Lizard (id:SleepyLizard)",
 	"requirements": ["lizardcustomizer"],
 	"requirements_names": ["Lizard Customizer"],
