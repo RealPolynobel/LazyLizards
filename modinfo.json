@@ -3,7 +3,7 @@
 	"name": "Polypop's Lizards",
 	"version": "0.1",
 	"authors": "Polynobel, Tofipop",
-	"description": "DevUI extender for placed objects and effects.<LINE>Source code and instructions can be found here: https://github.com/Rain-World-Modding/Pom",
+	"description": "Some funny (and slightly broken) lizards./nLizard List:/n- Tram Lizard (id: TramLizard)/n- Tofi Lizard (id: wtfliz)",
 	"requirements": ["lizardcustomiser"],
 	"requirements_names": ["Lizard Customiser"],
 	"checksum_override_version": false,
