@@ -4,8 +4,8 @@
 	"version": "0.1",
 	"authors": "Polynobel, Tofipop",
 	"description": "Some funny (and slightly broken) lizards.<LINE> <LINE>Lizard List:<LINE> <LINE>- Tram Lizard (id: TramLizard)<LINE>- Tofi Lizard (id: wtfliz)",
-	"requirements": ["lizardcustomiser"],
-	"requirements_names": ["Lizard Customiser"],
+	"requirements": ["lizardcustomizer"],
+	"requirements_names": ["Lizard Customizer"],
 	"checksum_override_version": false,
 	"tags": ["Lizards"]
 }
