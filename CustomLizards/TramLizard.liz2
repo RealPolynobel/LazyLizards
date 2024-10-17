@@ -191,7 +191,7 @@
     "leap": false,
     "spit": false,
     "swim": false,
-    "hearing": ture,
+    "hearing": true,
     "wormGrassImmune": false,
     "grabbable": false,
     "tongueType": 6,
