@@ -1,2 +1,3 @@
 GreenLizard-TramLizard(40%)
-CyanLizard-wtfliz(40%)
+CyanLizard-bouncyliz(40%)
+WhiteLizard-SleepyLizard(40%)
