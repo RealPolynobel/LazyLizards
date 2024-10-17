@@ -192,7 +192,7 @@
     "spit": false,
     "swim": true,
     "hearing": false,
-    "wormGrassImmune": false,
+    "wormGrassImmune": true,
     "grabbable": false,
     "tongueType": 3,
     "hearingMultiplier": 1.0,
@@ -372,8 +372,8 @@
         5,
         6,
         1,
-        1,
-        1
+        9,
+        9
     ],
     "relationshipMeToItIntensity": [
         0.0,
@@ -456,8 +456,8 @@
         0.10000000149011612,
         0.699999988079071,
         0.0,
-        0.0,
-        0.0
+        0.5,
+        0.5
     ],
     "relationshipItToMeType": [
         1,
@@ -540,8 +540,8 @@
         5,
         6,
         3,
-        5,
-        5
+        9,
+        9
     ],
     "relationshipItToMeIntensity": [
         0.0,
@@ -624,8 +624,8 @@
         0.10000000149011612,
         0.699999988079071,
         1.0,
-        0.10000000149011612,
-        0.10000000149011612
+        0.5,
+        0.5
     ],
     "meatPoints": 6,
     "extraDataName": [],
